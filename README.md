@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics @Sapienza
 
 ### News
 
-- **16/02/2021:** Site is up.
+- **16/02/2021:** Site is up. The first lecture will be on **Wed 24 February**.
 
 ### Logistics
 
