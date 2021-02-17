@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics @Sapienza
 
 ### News
 
-- **16/02/2021:** Site is up. The first lecture will be on **Wed 24 February**.
+- **16/02/2021:** Site is up. The first lecture will be on **Wed 03 March**.
 
 ### Logistics
 
@@ -38,6 +38,6 @@ Please check later for details.
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
 | | |
-Wed 24 Feb | Introduction | [slides](https://github.com/erodola/Alg-s2-2021/raw/master/01_intro/01-intro.pdf) | 
+Wed 03 Mar | Introduction | [slides](https://github.com/erodola/Alg-s2-2021/raw/master/01_intro/01-intro.pdf) | 
 | | |
 
