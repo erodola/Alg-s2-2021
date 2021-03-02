@@ -38,6 +38,6 @@ Please check later for details.
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
 | | |
-Wed 03 Mar | Introduction | [slides](https://github.com/erodola/Alg-s2-2021/raw/master/01_intro/01-intro.pdf) | 
+Wed 03 Mar | Introduction | [slides (to come)] | 
 | | |
 
