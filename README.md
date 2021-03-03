@@ -17,7 +17,7 @@ Course material; Bachelor's degree in Bioinformatics @Sapienza
 - Physically: Classroom Psicologia II
 - Virtually: Zoom ([link to the virtual classroom](https://zoom.us/j/4752349941?pwd=U0doeGFLWFFDSWlzWWxvd0JGMDRndz09)), Meeting ID: 475 234 9941, Passcode: 3K7xrM
 
-Please **only use Infostud Lab** (*not* Prodigit) to book a physical place in class.
+**IMPORTANT** Please **only use Infostud Lab** (*not* Prodigit) to book a physical place in class.
 
 **Office Hours:** Remotely by appointment, contact Prof. Rodolà
 
