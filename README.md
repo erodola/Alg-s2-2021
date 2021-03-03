@@ -43,4 +43,5 @@ Specific material in the form of scientific articles and book chapters will be g
 | | |
 Wed 03 Mar | Introduction | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/01_intro/01-intro.pdf) | 
 | | |
-
+Thu 04 Mar | Insertion sort | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/02_sort/02-sort.pdf) | 
+| | |
