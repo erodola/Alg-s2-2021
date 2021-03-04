@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics @Sapienza
 
 ### News
 
-- **16/02/2021:** Site is up. The first lecture will be on **Wed 03 March**.
+- **04/03/2021:** Please scroll down for a link to the Google Drive folder containing lecture recordings.
 
 ### Logistics
 
@@ -37,6 +37,10 @@ Specific material in the form of scientific articles and book chapters will be g
 - Optional: oral examination, granting plus or minus 3 points to the final grade
 
 ### Lectures
+
+All the lectures (video, audio and chat script) will be recorded and stored in this [Google Drive folder](https://drive.google.com/drive/folders/1XsIYKkNvDSYn-fby8uWhnDDSHOz-4bf8?usp=sharing).
+
+Please note that the audio quality will not be very good in general, due to technical issues.
 
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
