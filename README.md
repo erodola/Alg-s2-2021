@@ -46,8 +46,6 @@ Please note that the audio quality will not be very good in general, due to tech
 ------------ | ------------- | ------------ | ------------
 | | |
 Wed 03 Mar | Introduction | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/01_intro/01-intro.pdf) | 
-| | |
 Thu 04 Mar | Insertion sort | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/02_sort/02-sort.pdf) | 
-| | |
-Wed 10 Mar | Divide et impera | [slides - to come] | 
+Wed 10 Mar | Divide et impera | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/03_divide/03-divide.pdf) | 
 | | |
