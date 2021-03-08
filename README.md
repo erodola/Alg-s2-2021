@@ -49,3 +49,5 @@ Wed 03 Mar | Introduction | [slides](https://github.com/erodola/Alg-s2-2021/raw/
 | | |
 Thu 04 Mar | Insertion sort | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/02_sort/02-sort.pdf) | 
 | | |
+Wed 10 Mar | Divide et impera | [slides - to come] | 
+| | |
