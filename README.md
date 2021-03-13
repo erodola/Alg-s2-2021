@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics @Sapienza
 
 ### News
 
-- **04/03/2021:** Please scroll down for a link to the Google Drive folder containing lecture recordings.
+- **13/03/2021:** The lectures will now be given **exclusively in remote mode**, due to the recent move of Regione Lazio to the red zone for the COVID emergency.
 
 ### Logistics
 
