@@ -49,4 +49,4 @@ Thu 04 Mar | Insertion sort | [slides](https://github.com/erodola/Alg-s2-2021/ra
 Wed 10 Mar | Divide et impera | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/03_divide/03-divide.pdf) | 
 Thu 11 Mar | Growth of functions | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/04_growth/04-growth.pdf) | 
 Wed 17 Mar | Recursion I | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/05_recur1/05-recur1.pdf) | 
-Thu 18 Mar | Recursion II |  | 
+Thu 18 Mar | Recursion II | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/06_recur2/06-recur2.pdf) | 
