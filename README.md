@@ -51,3 +51,4 @@ Thu 11 Mar | Growth of functions | [slides](https://github.com/erodola/Alg-s2-20
 Wed 17 Mar | Recursion I | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/05_recur1/05-recur1.pdf) | 
 Thu 18 Mar | Recursion II | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/06_recur2/06-recur2.pdf) | 
 Wed 24 Mar | Heaps and priority queues | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/07_heap/07-heap.pdf) | 
+Thu 25 Mar | Stacks, queues, and linked lists | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/08_stack/08-stack.pdf) | 
