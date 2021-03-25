@@ -33,8 +33,7 @@ Specific material in the form of scientific articles and book chapters will be g
 
 ### Grading
 
-- Average grade between *midterm* (around mid April) written exam and *final* written exam
-- Optional: oral examination, granting plus or minus 3 points to the final grade
+Oral examination at the end of the course. Each oral exam may take up to 1 hour, and will cover all the topics discussed in the lectures, including both theory and coding.
 
 ### Lectures
 
