@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics @Sapienza
 
 ### News
 
-- **13/03/2021:** The lectures will now be given **exclusively in remote mode**, due to the recent move of Regione Lazio to the red zone for the COVID emergency.
+- **30/03/2021:** On **April 1st** there will be **no lecture** due to Easter holidays. Further, on **April 8th** there will be a **self-evaluation test** (not graded, does not affect the final grade you'll get at the exam).
 
 ### Logistics
 
