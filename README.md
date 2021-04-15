@@ -54,4 +54,4 @@ Thu 25 Mar | Stacks, queues, and linked lists | [slides](https://github.com/erod
 Wed 31 Mar | Graphs, breadth- and depth-first search | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/09_graphs/09-graphs.pdf) | 
 Wed 07 Apr | Geometric deep learning |  | 
 Thu 08 Apr | **Midterm self-evaluation test** | [sheet](https://github.com/erodola/Alg-s2-2021/raw/main/midterm/sheet.pdf) | 
-Thu 15 Apr | Shortest paths |  |
+Thu 15 Apr | Shortest paths | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/10_paths/10-paths.pdf) |
