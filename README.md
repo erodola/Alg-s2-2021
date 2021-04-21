@@ -5,7 +5,6 @@ Course material; Bachelor's degree in Bioinformatics @Sapienza
 ### News
 
 - **21/04/2021:** Please fill out the **OPIS** questionnaire (instructions [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_students_opinions_questionnaire_2020_2021.pdf)). The code for this course is EB9NFDEL.
-- **12/04/2021:** The lecture of **April 14th is cancelled** and will be made up for in the following weeks.
 
 ### Logistics
 
