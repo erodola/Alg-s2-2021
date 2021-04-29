@@ -58,4 +58,4 @@ Thu 15 Apr | Shortest paths | [slides](https://github.com/erodola/Alg-s2-2021/ra
 Wed 21 Apr | Clustering | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/11_cluster/11-cluster.pdf) | [R15](http://cs.joensuu.fi/sipu/datasets/R15.txt) ; [spiral](http://cs.joensuu.fi/sipu/datasets/spiral.txt) ; [jain](http://cs.joensuu.fi/sipu/datasets/jain.txt) ; [more datasets](http://cs.joensuu.fi/sipu/datasets/)
 Thu 22 Apr | Dimensionality reduction | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/12_mdspca/12-mdspca.pdf) |
 Wed 28 Apr | Decision trees and random forests | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/13_decision/13-decision.pdf) | [code](https://github.com/erodola/Alg-s2-2021/raw/main/13_decision/forests.py)
-Thu 29 Apr | Deep learning |  |
+Thu 29 Apr | Deep learning | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/14_deep/14-deep.pdf) |
