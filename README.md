@@ -62,4 +62,5 @@ Thu 29 Apr | Deep learning | [slides](https://github.com/erodola/Alg-s2-2021/raw
 Wed 05 May | Graph analysis | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/15_spectral/15-spectral.pdf) |
 Thu 06 May |  |  |
 Wed 12 May |  |  |
+
 **End**
