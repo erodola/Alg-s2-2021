@@ -4,6 +4,7 @@ Course material; Bachelor's degree in Bioinformatics @Sapienza
 
 ### News
 
+- **12/05/2021:** The final lecture will be a recap of all the course material. After that, please register for the exam on **Infostud**.
 - **21/04/2021:** Please fill out the **OPIS** questionnaire (instructions [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_students_opinions_questionnaire_2020_2021.pdf)). The code for this course is EB9NFDEL.
 
 ### Logistics
@@ -61,6 +62,6 @@ Wed 28 Apr | Decision trees and random forests | [slides](https://github.com/ero
 Thu 29 Apr | Deep learning | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/14_deep/14-deep.pdf) |
 Wed 05 May | Graph analysis | [slides](https://github.com/erodola/Alg-s2-2021/raw/main/15_spectral/15-spectral.pdf) |
 Thu 06 May | Local sequence alignment | [paper with notes](https://github.com/erodola/Alg-s2-2021/raw/main/paper/smith_waterman.pdf) |
-Wed 12 May |  |  |
+Wed 12 May | Recap |  |
 
 **End**
