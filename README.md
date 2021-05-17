@@ -4,7 +4,7 @@ Course material; Bachelor's degree in Bioinformatics @Sapienza
 
 ### News
 
-- **12/05/2021:** The final lecture will be a recap of all the course material. After that, please register for the exam on **Infostud**.
+- **17/05/2021:** Please register for the exam on **Infostud**. The exam will be held in the **Zoom classroom starting at 10:00**.
 - **21/04/2021:** Please fill out the **OPIS** questionnaire (instructions [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_students_opinions_questionnaire_2020_2021.pdf)). The code for this course is EB9NFDEL.
 
 ### Logistics
@@ -35,6 +35,7 @@ Specific material in the form of scientific articles and book chapters will be g
 ### Grading
 
 Oral examination at the end of the course. Each oral exam may take up to 1 hour, and will cover all the topics discussed in the lectures, including both theory and coding.
+The exam will be held in the Zoom classroom starting at 10:00.
 
 ### Lectures
 
